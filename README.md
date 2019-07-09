@@ -15,3 +15,5 @@ execute:
 $python xrandr-keystone-helper.py
 
 adjust the red tetragon/quadrilateral and test the result until you find the right parameters. The string to use with xrandr --transform gets printed to the terminal.
+
+To get the Testbutton working change eDP1 to the output you want to configure e.g. VGA1.
