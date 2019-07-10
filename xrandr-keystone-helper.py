@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+#
 # made by githubuser qurn
 #
 # Permission to use, copy, modify, distribute, and sell this software and its
