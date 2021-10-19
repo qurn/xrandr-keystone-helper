@@ -34,6 +34,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider, Button
 import time
+import sys
 
 fig, ax = plt.subplots()
 plt.subplots_adjust(bottom=0.35, top=0.76)
@@ -44,7 +45,7 @@ plt.subplots_adjust(bottom=0.35, top=0.76)
 #     A=0   B=1366
 
 global mon
-mon = "eDP1"
+mon = sys.argv
 global A
 global B
 global C
